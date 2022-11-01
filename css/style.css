@@ -1,0 +1,395 @@
+.headera .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+.logo .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+
+.company-fc .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+ 
+.logobox .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+ 
+.team .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+
+.paritur .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+
+.review .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+ .header .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+ .detail .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+ .website .wrapper
+ {
+	 width:80%;
+	margin:auto;
+ }
+
+.headera
+{
+	background-color:grey;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:skyblue;
+	height:65px;
+	width:30%;
+	margin-top:10px;
+	
+}
+.headera .headera-fc .hcon
+{
+	background-color:grey;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.headera .headera-fc .hcon .headb
+{
+	background-color:lightpink;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headc
+{
+	background-color:lightpink;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headd
+{
+	background-color:lightpink;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .heade
+{
+	background-color:lightpink;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.logo 
+{
+	background-color:violet;
+	height:723px;
+}
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:column;
+	justify-content:flex-start;
+}
+.logo .logo-fc .logob
+{
+	background-color:blue;
+	height:211px;
+	width:60%;
+	margin-top:100px;
+}
+.logo .logo-fc .logotext
+{
+	background-color:white;
+	height:43px;
+	width:20%;
+	margin-top:100px;
+}
+.company 
+{
+	background-color:lightskyblue;
+	height:490px;
+}
+.company .company-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.company .company-fc .cb
+{
+	text-align:center;
+	width:100%;
+}
+.company .company-fc .cba
+{
+	background-color:white;
+	height:200px;
+	width:22%;
+	margin-top:60px;
+}
+.company .company-fc .cbb
+{
+	background-color:blue;
+	height:200px;
+	width:22%;
+	margin-top:60px;
+}
+.company .company-fc .cbc
+{
+	background-color:white;
+	height:200px;
+	width:22%;
+	margin-top:60px;
+}
+.logobox
+{
+	background-color:plum;
+	height:500px;
+} 
+.logobox .logobox-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.logobox .logobox-fc .la
+{
+	background-color:blue;
+	height:450px;
+	width:40%;
+	margin-top:20px;
+}
+.team
+{
+	background-color:lime;
+	height:320px;
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.team .team-fc .teama
+{
+	background-color:blue;
+	height:232px;
+	width:31%;
+	margin-top:30px;
+}
+.team .team-fc .teamb
+{
+	background-color:white;
+	height:232px;
+	width:31%;
+	margin-top:30px;
+}
+.team .team-fc .teamc
+{
+	background-color:blue;
+	height:232px;
+	width:31%;
+	margin-top:30px;
+}
+.paritur
+{
+	background-color:violet;
+	 height:1200px;
+}
+.paritur .paritur-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	flex-wrap:wrap;
+} 
+.paritur .paritur-fc .boxa
+
+{
+	background-color:white;
+	width:48%;
+	height:550px;
+	margin-top:25px;
+}
+.paritur .paritur-fc .ptext
+{
+	background-color:blue;
+	text-align:center;
+	margin-top:25px;
+	width:48%;
+	height:550px;
+	
+} 
+.paritur .paritur-fc .boxa
+
+{
+	background-color:white;
+	width:48%;
+	height:550px;
+	margin-top:25px;
+}
+
+.paritur .paritur-fc .texta
+{
+	background-color:blue;
+	text-align:center;
+	margin-top:25px;
+	width:48%;
+	height:550px;
+}
+
+.review
+{
+	background-color:lightskyblue;
+	height:600px;
+}
+.review .review-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.review .review-fc .reviewtext
+{
+	text-align:center;
+	width:100%;
+	margin-top:100px;
+}
+.review .review-fc .reviewa
+{
+	background-color:lightgrey;
+	height:304px;
+	width:31%;
+	margin-top:100px;
+} 
+
+ .header
+{
+	background-color:plum;
+	height:150px;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.header .header-fc .ha
+{
+	background-color:white;
+	height:100px;
+	width:40%;
+	margin-top:25px;
+	
+}
+.header .header-fc .hb
+{
+	background-color:plum;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.header .header-fc .hb .hc
+{
+	background-color:navy;
+	height:40px;
+	width:15%;
+	margin-top:30px;
+}
+.header .header-fc .hb .hd
+{
+	background-color:navy;
+	height:40px;
+	width:15%;
+	margin-top:30px;
+}
+.detail 
+{
+	background-color:lightskyblue;
+	height:343px;
+}
+.detail .detail-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.detail .detail-fc .deta
+{
+	background-color:white;
+	height:241px;
+	width:22%;
+	margin-top:20px;
+}
+.detail .detail-fc .detb
+{
+	background-color:lime;
+	height:241px;
+	width:22%;
+	margin-top:20px;
+}
+.detail .detail-fc .detc
+{
+	background-color:white;
+	height:241px;
+	width:22%;
+	margin-top:20px;
+}
+.detail .detail-fc .detd
+{
+	background-color:lime;
+	height:241px;
+	width:22%;
+	margin-top:20px;
+}
+.website
+{
+	background-color :gray;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:violet;
+	width:20;
+	height:35px;
+	margin-top:20px;
+}
