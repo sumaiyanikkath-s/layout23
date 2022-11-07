@@ -147,26 +147,26 @@
 	flex-direction:row;
 	flex-wrap:wrap;
 }
-.company .company-fc .cb
+.company .company-fc .texta
 {
 	text-align:center;
 	width:100%;
 }
-.company .company-fc .cba
+.company .company-fc .boxa
 {
 	background-color:white;
 	height:200px;
 	width:22%;
 	margin-top:60px;
 }
-.company .company-fc .cbb
+.company .company-fc .boxb
 {
 	background-color:blue;
 	height:200px;
 	width:22%;
 	margin-top:60px;
 }
-.company .company-fc .cbc
+.company .company-fc .boxc
 {
 	background-color:white;
 	height:200px;
@@ -183,7 +183,7 @@
 	display:flex;
 	justify-content:center;
 }
-.logobox .logobox-fc .la
+.logobox .logobox-fc .logoa
 {
 	background-color:blue;
 	height:450px;
@@ -307,7 +307,7 @@
 	justify-content:space-between;
 	
 }
-.header .header-fc .ha
+.header .header-fc .boxa
 {
 	background-color:white;
 	height:100px;
@@ -315,7 +315,7 @@
 	margin-top:25px;
 	
 }
-.header .header-fc .hb
+.header .header-fc .boxb
 {
 	background-color:plum;
 	height:81px;
@@ -324,16 +324,16 @@
 	justify-content:space-evenly;
 	
 }
-.header .header-fc .hb .hc
+.header .header-fc .boxb .boxc
 {
-	background-color:navy;
+	background-color:lime;
 	height:40px;
 	width:15%;
 	margin-top:30px;
 }
-.header .header-fc .hb .hd
+.header .header-fc .boxb .boxd
 {
-	background-color:navy;
+	background-color:lime;
 	height:40px;
 	width:15%;
 	margin-top:30px;
@@ -348,28 +348,28 @@
 	display:flex;
 	justify-content:space-between;
 }
-.detail .detail-fc .deta
+.detail .detail-fc .boxa
 {
 	background-color:white;
 	height:241px;
 	width:22%;
 	margin-top:20px;
 }
-.detail .detail-fc .detb
+.detail .detail-fc .boxb
 {
 	background-color:lime;
 	height:241px;
 	width:22%;
 	margin-top:20px;
 }
-.detail .detail-fc .detc
+.detail .detail-fc .boxc
 {
 	background-color:white;
 	height:241px;
 	width:22%;
 	margin-top:20px;
 }
-.detail .detail-fc .detd
+.detail .detail-fc .boxd
 {
 	background-color:lime;
 	height:241px;
